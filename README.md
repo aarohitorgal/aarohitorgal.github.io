@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ranjith M S - Portfolio</title>
+    <title>Aarohi Srihari Torgal - Portfolio</title>
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
@@ -16,7 +16,7 @@
                 <div class="header-text">
                     <h1>Ranjith M S</h1>
                     <p>
-                        <a href="mailto:ranjithms523@gmail.com">ranjithms523@gmail.com</a> |
+                        <a href="mailto:aarohitorgal@gmail.com">aarohitorgal@gmail.com</a> |
                         <a href="https://www.linkedin.com/in/ranjith-m-s">
                             <i class="fab fa-linkedin"></i> LinkedIn
                         </a> |
