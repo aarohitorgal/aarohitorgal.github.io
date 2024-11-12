@@ -1,5 +1,4 @@
 # aarohitorgal.github.io
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -14,7 +13,7 @@
         <header>
             <div class="header-content">
                 <div class="header-text">
-                    <h1>Ranjith M S</h1>
+                    <h1>Aarohi Srihari Torgal</h1>
                     <p>
                         <a href="mailto:aarohitorgal@gmail.com">aarohitorgal@gmail.com</a> |
                         <a href="https://www.linkedin.com/in/ranjith-m-s">
