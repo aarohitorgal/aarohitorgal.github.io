@@ -16,13 +16,13 @@
                     <h1>Aarohi Srihari Torgal</h1>
                     <p>
                         <a href="mailto:aarohitorgal@gmail.com">aarohitorgal@gmail.com</a> |
-                        <a href="https://www.linkedin.com/in/ranjith-m-s">
+                        <a href="  "><!-- linkdn Link -->
                             <i class="fab fa-linkedin"></i> LinkedIn
                         </a> |
-                        <a href="https://github.com/ranjith-ms">
+                        <a href="https://github.com/aarohitorgal">
                             <i class="fab fa-github"></i> GitHub
                         </a> |
-                        <a href="https://drive.google.com/file/d/1gJF2L1TDlp1PbBVKgcOHWyzWYJ0DWKXt/view?usp=sharing">
+                        <a href="   "><!-- Resume--> 
                             <i class="fas fa-file-alt"></i> CV
                         </a>
                     </p>
@@ -41,7 +41,7 @@
                             <img src="images/profile.jpg" alt="Profile Image">
                         </div>
                         <div class="profile-text">
-                            <p>I’m a specialist in hardware-specific languages with a knack for optimizing neural networks for AI accelerators. My expertise in designing and developing HPC kernels—like 1x1 and 3x3 convolutions—has accelerated inference for models such as ResNet50, pushing the boundaries of what’s possible in AI hardware.</p>
+                            <p>    Change About YourSelf </p>
                         </div>
                     </div>
 
