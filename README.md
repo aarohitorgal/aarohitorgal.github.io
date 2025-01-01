@@ -38,7 +38,7 @@
                 <div class="about-me-content">
                     <div class="profile-summary">
                         <div class="profile-image">
-                            <img src="https://github.com/aarohitorgal/aarohitorgal.github.io/blob/main/Screenshot%202024-12-20%20143216.png" alt="Profile Image">
+                            <img src="Screenshot 2024-12-20 143216.png" alt="Profile Image">
                         </div>
                         <div class="profile-text">
                             <p>    Change About YourSelf </p>
